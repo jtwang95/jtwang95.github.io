@@ -6,17 +6,17 @@ email: jitwang (at) umich.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: Welcome to my website
+keywords: Jitao Wang, jitao wang
+description: Jitao Wang is a fourth-year PhD student at University of Michigan.
 canonical: jtwang95.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=lkx7sBsAAAAJ
+cv_link: assets/files/cv.pdf
+github_link: https://github.com/jtwang95
+linkedin: https://www.linkedin.com/in/jitao-wang-umich
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -42,7 +42,7 @@ font: "Serif" # or "Sans Serif"
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
