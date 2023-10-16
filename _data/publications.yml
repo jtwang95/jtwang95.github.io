@@ -20,3 +20,36 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+
+  - title: The Dosing of Mobile-Based Just-in-Time Adaptive Self-Management Prompts for Caregivers - Preliminary Findings From a Pilot Microrandomized Study
+    authors: <strong>Jitao Wang</strong>, Zhenke Wu, Sung Won Choi, Srijan Sen, Xinghui Yan, Jennifer A Miner, Angelle M Sander, Angela K Lyden, Jonathan P Troost, Noelle E Carlozzi
+    # conference_short: CVPR
+    conference: JMIR Formative Research.
+    pdf: https://formative.jmir.org/2023/1/e43099
+    code: https://github.com/jtwang95/CareQOL_JITAI_data_analysis
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: Effectiveness of gamified team competition as mHealth intervention for medical interns - A cluster micro-randomized trial
+    authors: <strong>Jitao Wang</strong>, Yu Fang, Elena Frank, Maureen A. Walton, Margit Burmeister, Ambuj Tewari, Walter Dempsey, Timothy NeCamp, Srijan Sen, Zhenke Wu
+    # conference_short: CVPR
+    conference: Npj Digital Medicine.
+    pdf: https://www.nature.com/articles/s41746-022-00746-y
+    code: https://github.com/jtwang95/IHS_competition
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: An app-based just-in-time-adaptive self-management intervention for care partners - The CareQOL feasibility pilot study.
+    authors: Noelle E Carlozzi, Sung Won Choi, Zhenke Wu, Jennifer A Miner, Angela K Lyden, Christopher Graves, <strong>Jitao Wang</strong>, Srijan Sen
+    # conference_short: CVPR
+    conference: ehabilitation Psychology.
+    pdf: https://pubmed.ncbi.nlm.nih.gov/34889775/
+    # code: https://github.com/jtwang95/IHS_competition
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
