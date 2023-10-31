@@ -53,3 +53,14 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+
+  - title: Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
+    authors: Lan Luo, Chengchun Shi, <strong>Jitao Wang</strong>, Zhenke Wu, Lexin Li
+    # conference_short: CVPR
+    conference: arXiv
+    pdf: https://arxiv.org/abs/2310.16203
+    # code: https://github.com/jtwang95/IHS_competition
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
