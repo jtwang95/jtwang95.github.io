@@ -1,66 +1,66 @@
 main:
   - title: Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
     authors: Lan Luo, Chengchun Shi, <strong>Jitao Wang</strong>, Zhenke Wu, Lexin Li
-    # conference_short: CVPR
+    conference_short: Preprint
     conference: arXiv
     pdf: https://arxiv.org/abs/2310.16203
     # code: https://github.com/jtwang95/IHS_competition
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/multi_med.png
 
   - title: A Robust Test for the Stationarity Assumption in Sequential Decision Making. 
     authors: <strong>Jitao Wang</strong>, Chengchun Shi, Zhenke Wu
-    # conference_short: MICCAI
+    conference_short: ICML
     conference: Proceedings of the 40th International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://proceedings.mlr.press/v202/wang23ai/wang23ai.pdf
     code: https://github.com/jtwang95/Double_CUSUM_RL
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/testsa.png
     # notes: Early Accept
 
   - title: A Reinforcement Learning Framework for Dynamic Mediation Analysis
     authors: Lin Ge, <strong>Jitao Wang</strong>, Chengchun Shi, Zhenke Wu, Rui Song
-    # conference_short: CVPR
+    conference_short: ICML
     conference: Proceedings of the 40th International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://proceedings.mlr.press/v202/ge23a/ge23a.pdf
     code: https://github.com/linlinlin97/MediationRL
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/mmdp.png
 
   - title: The Dosing of Mobile-Based Just-in-Time Adaptive Self-Management Prompts for Caregivers - Preliminary Findings From a Pilot Microrandomized Study
     authors: <strong>Jitao Wang</strong>, Zhenke Wu, Sung Won Choi, Srijan Sen, Xinghui Yan, Jennifer A Miner, Angelle M Sander, Angela K Lyden, Jonathan P Troost, Noelle E Carlozzi
-    # conference_short: CVPR
+    conference_short: JFR
     conference: JMIR Formative Research.
     pdf: https://formative.jmir.org/2023/1/e43099
     code: https://github.com/jtwang95/CareQOL_JITAI_data_analysis
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/jfr_dosing.png
 
   - title: Effectiveness of gamified team competition as mHealth intervention for medical interns - A cluster micro-randomized trial
     authors: <strong>Jitao Wang</strong>, Yu Fang, Elena Frank, Maureen A. Walton, Margit Burmeister, Ambuj Tewari, Walter Dempsey, Timothy NeCamp, Srijan Sen, Zhenke Wu
-    # conference_short: CVPR
+    conference_short: NPJ-DM
     conference: Npj Digital Medicine.
     pdf: https://www.nature.com/articles/s41746-022-00746-y
     code: https://github.com/jtwang95/IHS_competition
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/npj_effectiveness.png
 
   - title: An app-based just-in-time-adaptive self-management intervention for care partners - The CareQOL feasibility pilot study.
     authors: Noelle E Carlozzi, Sung Won Choi, Zhenke Wu, Jennifer A Miner, Angela K Lyden, Christopher Graves, <strong>Jitao Wang</strong>, Srijan Sen
-    # conference_short: CVPR
+    conference_short: JMIR
     conference: Rehabilitation Psychology.
     pdf: https://pubmed.ncbi.nlm.nih.gov/34889775/
     # code: https://github.com/jtwang95/IHS_competition
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/jmir_protocol.png
 
