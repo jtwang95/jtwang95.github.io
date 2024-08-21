@@ -1,4 +1,15 @@
 main:
+  - title: Counterfactually Fair Offline Reinforcement Learning via Sequential Data Preprocessing
+    authors: <strong>Jitao Wang</strong>, Chengchun Shi, John D. Piette, Joshua R. Loftus, Zhenke Wu
+    conference_short: Preprint
+    # conference: arXiv
+    # pdf: https://arxiv.org/abs/2310.16203
+    # code: https://github.com/jtwang95/IHS_competition
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/fairrl.png
+
   - title: Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
     authors: Lan Luo, Chengchun Shi, <strong>Jitao Wang</strong>, Zhenke Wu, Lexin Li
     conference_short: Preprint
