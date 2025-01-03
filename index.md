@@ -8,7 +8,7 @@ Hello! I am a final-year PhD student in the [Department of Biostatistics](https:
 
 ## Research Interests
 
-My research interest cneters around the development and practice of statistical methods within the field of mobile health. My current focus is on reinforcement learning, causal inference and fairness in machine learning.
+My research interest centers around the development and practice of statistical methods within the field of mobile health. My current focus is on reinforcement learning, causal inference and fairness in machine learning.
 
 ## Keywords
 
