@@ -15,7 +15,7 @@ main:
     conference_short: AOS
     conference: Annals of Statistics
     pdf: https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-1/Multivariate-dynamic-mediation-analysis-under-a-reinforcement-learning-framework/10.1214/24-AOS2475.short
-    # code: https://github.com/jtwang95/IHS_competition
+    code: https://github.com/jtwang95/MedtimeRL
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
