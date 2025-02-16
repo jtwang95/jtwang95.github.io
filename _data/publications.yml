@@ -12,9 +12,9 @@ main:
 
   - title: Multivariate Dynamic Mediation Analysis under a Reinforcement Learning Framework
     authors: Lan Luo, Chengchun Shi, <strong>Jitao Wang</strong>, Zhenke Wu, Lexin Li
-    conference_short: Preprint
-    conference: arXiv
-    pdf: https://arxiv.org/abs/2310.16203
+    conference_short: AOS
+    conference: Annals of Statistics
+    pdf: https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-1/Multivariate-dynamic-mediation-analysis-under-a-reinforcement-learning-framework/10.1214/24-AOS2475.short
     # code: https://github.com/jtwang95/IHS_competition
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
