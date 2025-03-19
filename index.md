@@ -8,11 +8,11 @@ Hello! I am a final-year PhD student in the [Department of Biostatistics](https:
 
 ## Research Interests
 
-My research interest centers around the development and practice of statistical methods within the field of mobile health. My current focus is on reinforcement learning, causal inference and fairness in machine learning.
+My research interest centers around the development and practice of statistical methods within the field of interventional mobile health. My current focus is on reinforcement learning (RL), causal inference, fair ML, and large language models (LLMs).
 
 ## Keywords
 
-- **Theory and Methods**: <strong>R</strong>einforcement Learning, <strong>C</strong>ausal Inference, <strong>S</strong>equential Decision Making, <strong>D</strong>eep Learning, <strong>L</strong>ongitudinal Data Analysis, <strong>H</strong>ypothesis Testing, <strong>F</strong>airness in Machine Learning.
+- **Theory and Methods**: <strong>R</strong>einforcement Learning, <strong>C</strong>ausal Inference, <strong>S</strong>equential Decision Making, <strong>D</strong>eep Learning, <strong>L</strong>ongitudinal Data Analysis, <strong>H</strong>ypothesis Testing, <strong>F</strong>airness in Machine Learning, <strong>L</strong> arge Language Models.
 - **Applications**: <strong>M</strong>obile Health, <strong>C</strong>omputerized Adaptive Test, <strong>P</strong>ersonalized/Individualized Healthcare, <strong>M</strong>irco-randomized Trial.
 
 <!-- ## News -->
@@ -24,4 +24,4 @@ My research interest centers around the development and practice of statistical 
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
