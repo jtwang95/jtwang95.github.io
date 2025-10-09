@@ -1,4 +1,15 @@
 main:
+  - title: Generalized Fitted Q-Iteration with Clustered Data
+    authors: Liyuan Hu, <strong>Jitao Wang</strong>, Zhenke Wu, Chengchun Shi
+    conference_short: Preprint
+    conference: arXiv
+    pdf: https://arxiv.org/abs/2510.03912
+    # code: https://github.com/jtwang95/IHS_competition
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/clusterRL.png
+
   - title: Counterfactually Fair Offline Reinforcement Learning via Sequential Data Preprocessing
     authors: <strong>Jitao Wang</strong>, Chengchun Shi, John D. Piette, Joshua R. Loftus, Zhenke Wu
     conference_short: Preprint

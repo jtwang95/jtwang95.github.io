@@ -1,11 +1,13 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
+  <li><a href="https://iclr.cc/Conferences/2025"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2025"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2025</autocolor></a></li>
+  <li><a href="https://academic.oup.com/jrsssb"><autocolor>Journal of the Royal Statistical Society Series B (Statistical Methodology)</autocolor></a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
