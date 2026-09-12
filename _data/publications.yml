@@ -1,4 +1,37 @@
 main:
+  - title: A Distribution Mapping Approach to Counterfactually Fair Reinforcement Learning
+    authors: Jianhan Zhang, <strong>Jitao Wang</strong>, John D Piette, Donglin Zeng, Chengchun Shi, Zhenke Wu
+    conference_short: Preprint
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2608.08743
+    # code: https://github.com/jtwang95/careqol_app_usability_analysis
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/distributional_mapping.png
+
+  - title: PyCFRL: A Python library for counterfactually fair offline reinforcement learning via sequential data preprocessing
+    authors: Jianhan Zhang, <strong>Jitao Wang</strong>, Chengchun Shi, John D. Piette, Donglin Zeng, Zhenke Wu
+    conference_short: JOSS
+    conference: Journal of Open Source Software
+    pdf: https://arxiv.org/abs/2510.06935
+    code: https://github.com/JianhanZhang/PyCFRL
+    page: https://pycfrl-documentation.netlify.app/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/pycfrl.png
+  
+  - title: Understanding the impact of perceived app usability on the efficacy of mobile health intervention for traumatic brain injury caregivers
+    authors: <strong>Jitao Wang</strong>, Zhenke Wu, Angelle M. Sander, Srijan Sen, Sung Won Choi, Jennifer A. Miner, Christopher Graves, Noelle E. Carlozzi
+    conference_short: REP
+    conference: Rehabilitation Psychology
+    # pdf: https://arxiv.org/abs/2510.03912
+    code: https://github.com/jtwang95/careqol_app_usability_analysis
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/app_usability.png
+
   - title: Generalized Fitted Q-Iteration with Clustered Data
     authors: Liyuan Hu, <strong>Jitao Wang</strong>, Zhenke Wu, Chengchun Shi
     conference_short: Preprint
